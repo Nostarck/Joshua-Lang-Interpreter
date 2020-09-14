@@ -1,0 +1,9 @@
+play("funcion factorial")!
+play("introduzca el factorial")!
+defensa factorial cambio gol()!
+defensa resultado cambio 1!
+cletear(factorial >= 1)[
+	resultado cambio resultado*factorial!
+	factorial cambio factorial-1!	
+]
+play(resultado)!
